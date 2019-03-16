@@ -238,7 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
 - [battery-level](https://github.com/gillstrom/battery-level) - Get current battery level.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness ([windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
@@ -246,63 +246,63 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 - [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
-- [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
-- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
-- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
-- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets in your terminal.
+- [wego](https://github.com/schachmat/wego) - Get the weather.
+- [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather.
+- [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer.
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Fetch news headlines from various news outlets.
 - [has](https://github.com/kdabir/has) - Checks for the presence of various commands and their versions on the path.
 - [decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
-- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
-- [Glances](https://nicolargo.github.io/glances) - A cross-platform system monitoring tool (top/htop alternative) written in Python.
-- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome curated lists without a browser.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
+- [pass](https://www.passwordstore.org) - The standard unix password manager.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [Glances](https://nicolargo.github.io/glances) - System monitoring tool.
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists without a browser.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
-- [Ultimate Plumber](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for common log formats such as apache-common, apache error and RFC3164 syslog.
+- [Ultimate Plumber](https://github.com/akavel/up) - Write Linux pipes with live previews.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 
 ### macOS
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app.
+- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name: Safari → com.apple.Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier: com.apple.Safari → Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
-- [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
+- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version.
+- [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - Manage wifi connections.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
-- [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
+- [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
+- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - Open a website in a popup .
 
 ### Terminal Utilities
 
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
 - [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-- [ngrok](https://ngrok.com/) - secure introspectable tunnels to localhost.
+- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 - [serveo](https://serveo.net/) - Expose local servers to the internet using only a SSH client.
-- [seashells.io](https://seashells.io/) - Pipe output from command-line programs to the web in real-time.
-- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [seashells.io](https://seashells.io/) - Pipe output to the web.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal.
 - [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-- [OverTime](https://github.com/diit/overtime-cli) - Easy time-overlap tables for remote teams.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - undollar strips the '$' preceding copy-pasted terminal commands.
+- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 
 ### Network Utilities
 
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test your internet connection speed and ping using speedtest.net from the CLI.
-- [speed-test](https://github.com/sindresorhus/speed-test) - A wrapper around speedtest-net with different UI.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net.
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from [unsplash](http://unsplash.com).
+- [splash-cli](https://github.com/rawnly/splash-cli) - Beautiful wallpapers from unsplash.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [themer](https://github.com/mjswensen/themer) - Generate personalized themes for your editor, terminal, wallpaper, Slack, and more.
-- [JackPaper](https://github.com/jackel27/jackpaper) - Pull random/queried images from unplash.com and apply to your desktop wallpaper.
-- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly, then apply the colors system-wide to all of your favourite programs.
+- [JackPaper](https://github.com/jackel27/jackpaper) - Apply random/queried images from unplash.com as desktop wallpaper.
+- [pywal](https://github.com/dylanaraps/pywal) - Generate and change color-schemes, then apply them system-wide to all of your favourite programs.
 
 ## Command Line Learning
 
