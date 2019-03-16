@@ -241,12 +241,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version](https://github.com/sondreb/win-brightness).
 - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
-- [s](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
-- [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
-- [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate text memes.
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+- [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [share-cli](https://github.com/marionebl/share-cli) - Share files with your local network.
+- [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Share files from your command line with the world.
 - [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [mapscii](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
