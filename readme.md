@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [RTV](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+- [irssi](https://github.com/irssi/irssi) - IRC chat client.
 
 ### Video
 
@@ -226,6 +227,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [eureka](https://github.com/simeg/eureka) - Store your ideas without leaving the terminal.
 - [sncli](https://github.com/insanum/sncli) - Simplenote client.
 - [td-cli](https://github.com/darrikonn/td-cli) - A todo manager to organize and manage your todos across multiple projects.
+- [taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager.
 
 ### Finance
 
